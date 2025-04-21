@@ -5,7 +5,8 @@
 /bin/
 out/
 build/
-
+metadata/
+.metadata/
 # Configurações da IDE
 .project
 .classpath
