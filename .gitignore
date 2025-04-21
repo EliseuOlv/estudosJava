@@ -1,3 +1,6 @@
+.metadata/
+*.log
+
 # Arquivos de compilação
 *.class
 
@@ -5,12 +8,7 @@
 /bin/
 out/
 build/
-metadata/
-.metadata/
 # Configurações da IDE
 .project
 .classpath
 .settings/
-.metadata/
-C:\dev\Java\cursoJava\.metadata\
-C:\dev\Java\cursoJava/.metadata/
