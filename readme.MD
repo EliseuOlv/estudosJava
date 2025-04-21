@@ -11,3 +11,22 @@
 * Escopo de Classe
 * Escopo de método
 * Escopo de fluxo
+
+Pode ser definido como um ambiente onde uma variável pode ser acessada. Em java, o escopo de variáveis vai de acordo com o bloco onde ela foi declarada.
+
+A variável é criada no primeiro acesso a ela, se tornando inacessível após o interpretador sair do bloco de execução ao qual ela pertence. Portanto, esta variável não pode ser lida ou manipulada por rotinas e códigos que estão fora do seu bloco de declaração, ou seja, fora do escopo da variável.
+
+Em uma Classe, podemos vizualizar a diferença de escopo. Os atributos(variaveis) são declarados no corpo principal da classe, sendo portanto acessíveis por todo os métodos.
+
+Caso você declare uma variável DENTRO DE UM MÉTODO. 
+
+## **Palavras Reservadas**
+
+Apresentar as 52 palavras reservadas organizadas por qualificação de usabilidade considerando as regras da linguagem.
+
+### Assunto
+
+-> Tipos Primitivos
+-> Classificações
+-> Escopo de uso
+-> Palavras "opostas"
