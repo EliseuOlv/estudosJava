@@ -30,3 +30,8 @@ Apresentar as 52 palavras reservadas organizadas por qualificação de usabilida
 -> Classificações
 -> Escopo de uso
 -> Palavras "opostas"
+
+
+## **Hierarquia das exceções
+
+A linguagem Java dispões de uma variedade de classes que representam exceções, e estas classes são organizadas em uma hierarquia denominadas **Checkd and Unckecked Exceptions** ou Exceções Checadas e Não Checadas.
