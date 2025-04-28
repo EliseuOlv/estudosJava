@@ -23,13 +23,4 @@ public class ExemploWhile {
 	public static double valorAleatorio() {
 		return ThreadLocalRandom.current().nextDouble(2,15);
 	}
-
-	
-	
-	 public static void main(String[] args) { 
-		 boolean condicao = false; 
-		 while(condicao){ 
-			 System.out.println("executou ... "); 
-		 } 
-	}
 }
