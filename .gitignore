@@ -10,6 +10,4 @@
 out/
 build/
 # Configurações da IDE
-.project
-.classpath
 .settings/

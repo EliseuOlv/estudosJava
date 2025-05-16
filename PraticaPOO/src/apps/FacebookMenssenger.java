@@ -1,9 +1,10 @@
-
+package apps;
 public class FacebookMenssenger extends ServicoDeMensagemInstantanea {
 
 	@Override
 	public void enviarMensagem() {
 		// TODO Auto-generated method stub
+		validarConectadoInternet();
 		System.out.println("Enviando Mensagem pelo Facebook");
 	}
 
